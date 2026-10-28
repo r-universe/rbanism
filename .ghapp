@@ -1,0 +1,10 @@
+{
+  "id": 176286408,
+  "created_at": "2026-10-28T18:35:40.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["rbanism.r-universe.dev"]
+}
